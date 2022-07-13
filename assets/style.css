@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 75vw;
+}
+.heading{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.information{
+    margin-top: 10px;
+    margin-bottom: 55px;
+    padding-left: 30px;
+}
+.left.part{
+    margin-left: 30px;
+    padding-left: 8px;
+    border-left: 2px dotted black;
+    float: left;
+    width: 30%;
+    height: 100vh;
+    text-align: justify;
+}
+.left.part .experience.title{
+    color: rgb(97, 97, 238);
+    margin-bottom: 10px;
+}
+.left.part .second.company .second.company.title{
+    margin-top: 15px;
+}
+.left.part .third.company .third.company.title{
+    margin-top: 15px;
+}
+.projects.title{
+    color: rgb(97, 97, 238);
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.right.part{
+    width: 20%;
+    margin: 0 auto;
+    border-left: 2px dotted black;
+    padding-left: 8px;
+    height: 100vh;
+    text-align: justify;
+}
+.right.part .education.title{
+    color: rgb(97, 97, 238);
+    margin-bottom: 10px;
+}
+.right.part .first.education{
+    margin-top: 15px;
+}
+.right.part .second.education{
+    margin-top: 15px;
+}
+.right.part .language.title{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.right.part .it.title{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.left.part .work.icon{
+    float: left;
+    margin-right: 7px;
+    color: rgb(97, 97, 238);
+}
+.right.part .education.icon{
+    float: left;
+    margin-right: 7px;
+    color: rgb(97, 97, 238);
+}
+.image{
+    float: left;
+    margin-right: 15px;
+}
